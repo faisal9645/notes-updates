@@ -1,0 +1,15 @@
+{
+  "versionCode": 249,
+  "versionName": "1.8.77",
+  "tagName": "v1.8.77-249",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.77-249/app_update_249_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.77-249/app_update_249_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.77-249/app_update_249_calculator.apk",
+  "assetSize": 19434244,
+  "assetSizeNotes": 19434244,
+  "assetSizeCalculator": 19434244,
+  "sha256Notes": "40be45e5dd4c127c9abd7d36cece5395958d75251096b2b5aa5cb8fc360e9f5b",
+  "sha256Calculator": "2c875504795940b985476d5ba9f6d9f9acfb05c86305a8587782ecf26eb3c355",
+  "releaseNotes": "Notes v1.8.77 (Build 249):\n• Bug fixes and refinements",
+  "releaseDate": "2026-10-25T07:36:33Z"
+}
