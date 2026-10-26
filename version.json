@@ -1,15 +1,15 @@
 {
-  "versionCode": 254,
-  "versionName": "1.8.82",
-  "tagName": "v1.8.82-254",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.82-254/app_update_254_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.82-254/app_update_254_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.82-254/app_update_254_calculator.apk",
-  "assetSize": 19505564,
-  "assetSizeNotes": 19505564,
-  "assetSizeCalculator": 19505564,
-  "sha256Notes": "d2d6a8e66cf604e97d17f6ccf360af937be6905decab1500b88866f98a956605",
-  "sha256Calculator": "0e8b8b913471c3f185e5024f71eaaf55b8742649efd566c6ced9267d9eb0ec35",
-  "releaseNotes": "Notes v1.8.82 (Build 254):\n• Bug fixes and refinements",
-  "releaseDate": "2026-10-26T07:28:07Z"
+  "versionCode": 255,
+  "versionName": "1.8.83",
+  "tagName": "v1.8.83-255",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.83-255/app_update_255_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.83-255/app_update_255_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.83-255/app_update_255_calculator.apk",
+  "assetSize": 19507016,
+  "assetSizeNotes": 19507016,
+  "assetSizeCalculator": 19507016,
+  "sha256Notes": "ab605657a8852a69e9996931bf80b0b00175b2ecaf6dc815a85c245c77fc6846",
+  "sha256Calculator": "de607422890cfeebd4ca3f7b1434783f7999e1378764242b2fdf91afd5e1a11e",
+  "releaseNotes": "Notes v1.8.83 (Build 255):\n• Bug fixes and refinements",
+  "releaseDate": "2026-10-26T09:07:43Z"
 }
