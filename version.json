@@ -1,15 +1,15 @@
 {
-  "versionCode": 267,
-  "versionName": "1.8.95",
-  "tagName": "v1.8.95-267",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.95-267/app_update_267_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.95-267/app_update_267_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.95-267/app_update_267_calculator.apk",
-  "assetSize": 19820103,
-  "assetSizeNotes": 19820103,
-  "assetSizeCalculator": 19820107,
-  "sha256Notes": "e95a5e9b08572e5480428de96bd18ee25fac9cf276c022064c165841aa8c3de9",
-  "sha256Calculator": "d2f7d18bfe94ab9b04ba468150ffda41e6c4e0127d1c3df71472ce31bfbb1108",
-  "releaseNotes": "Notes v1.8.95 (Build 267):\n• Bug fixes and refinements",
-  "releaseDate": "2026-10-28T15:50:10Z"
+  "versionCode": 268,
+  "versionName": "1.8.96",
+  "tagName": "v1.8.96-268",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.96-268/app_update_268_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.96-268/app_update_268_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.96-268/app_update_268_calculator.apk",
+  "assetSize": 19827931,
+  "assetSizeNotes": 19827931,
+  "assetSizeCalculator": 19827935,
+  "sha256Notes": "4bcc7371562a0e7be2577d760e2f00f13992e162c620f7d04b1d94e2dc07747f",
+  "sha256Calculator": "4789c6a062ac336be30bbd33833c111e072e258685d74f4c1d0f5a7cc14595f8",
+  "releaseNotes": "Notes v1.8.96 (Build 268):\n• Bug fixes and refinements",
+  "releaseDate": "2026-10-28T17:52:30Z"
 }
