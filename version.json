@@ -1,15 +1,15 @@
 {
-  "versionCode": 265,
-  "versionName": "1.8.93",
-  "tagName": "v1.8.93-265",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.93-265/app_update_265_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.93-265/app_update_265_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.93-265/app_update_265_calculator.apk",
-  "assetSize": 19705303,
-  "assetSizeNotes": 19705303,
-  "assetSizeCalculator": 19705303,
-  "sha256Notes": "4aff48c274d1902c4eb0a25f3ab9dd9e0d7a5bd2313017ca4677ea8ede81b1bd",
-  "sha256Calculator": "75a6dd202ddc396a96cc36b428fd8747c2a70a510bf9a195cfb5b567f53d9814",
-  "releaseNotes": "Notes v1.8.93 (Build 265):\n• Bug fixes and refinements",
-  "releaseDate": "2026-10-28T08:52:32Z"
+  "versionCode": 266,
+  "versionName": "1.8.94",
+  "tagName": "v1.8.94-266",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.94-266/app_update_266_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.94-266/app_update_266_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.94-266/app_update_266_calculator.apk",
+  "assetSize": 19723595,
+  "assetSizeNotes": 19723595,
+  "assetSizeCalculator": 19723595,
+  "sha256Notes": "a3ea2f07c08705242ac0eb4741c2021f4b26bcb232aef679a9f051b3c6810b2e",
+  "sha256Calculator": "02fd0a58c732b98d9dd06e142ffe4107aea10ac361981ea4c380af93c70405fb",
+  "releaseNotes": "Notes v1.8.94 (Build 266):\n• Export and import complete ZIP backups\n• Faster, incremental cloud backups\n• Deleted items stay deleted after a restore\n• Smoother performance and lower battery use",
+  "releaseDate": "2026-10-28T12:26:36Z"
 }
