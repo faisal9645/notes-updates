@@ -1,15 +1,15 @@
 {
-  "versionCode": 274,
-  "versionName": "1.8.102",
-  "tagName": "v1.8.102-274",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.102-274/app_update_274_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.102-274/app_update_274_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.102-274/app_update_274_calculator.apk",
-  "assetSize": 19931591,
-  "assetSizeNotes": 19931591,
-  "assetSizeCalculator": 19931591,
-  "sha256Notes": "09a30267da61cd8560fc201569a6b36ab1224b6c382309b800ce8838b9967883",
-  "sha256Calculator": "e5ad368d867edbb0be9d987ca73ef08f146362506dafa09814ba6af65093b312",
-  "releaseNotes": "Notes v1.8.102 (Build 274):\n• Multi-pinned messages with preview sheet and quick-jump in chat\n• Mobile data and Wi-Fi statistics auto-reset in privacy settings\n• Bottom sheet gesture refinements and UI performance optimizations",
-  "releaseDate": "2026-10-29T17:04:35Z"
+  "versionCode": 275,
+  "versionName": "1.8.103",
+  "tagName": "v1.8.103-275",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.103-275/app_update_275_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.103-275/app_update_275_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.103-275/app_update_275_calculator.apk",
+  "assetSize": 19931507,
+  "assetSizeNotes": 19931507,
+  "assetSizeCalculator": 19931507,
+  "sha256Notes": "21fee3ac0075164a162ef8f1d45c4d2247c68baa4421b53dedf55f7c30ef8c3f",
+  "sha256Calculator": "d05917a3309367a80e0f940d1be109b7b50a2c09b1f78b63fafa207af0290856",
+  "releaseNotes": "Notes v1.8.103 (Build 275):\n• Smooth, soft chat card motion animations with optimized fluid scrolling\n• Enhanced notification settings for message and call activity details\n• General playback, paging resilience, and performance improvements",
+  "releaseDate": "2026-10-29T18:22:23Z"
 }
