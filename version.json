@@ -1,15 +1,15 @@
 {
-  "versionCode": 293,
-  "versionName": "1.8.121",
-  "tagName": "v1.8.121-293",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.121-293/app_update_293_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.121-293/app_update_293_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.121-293/app_update_293_calculator.apk",
-  "assetSize": 20187631,
-  "assetSizeNotes": 20187631,
-  "assetSizeCalculator": 20187635,
-  "sha256Notes": "82f52cb10bd3dd3127ebf8a47db9c88b4ae11e4307f80bd85d90f971014c77fc",
-  "sha256Calculator": "02787962f2bbddae7771eec94d9941f8973cd8b4930d5fae98b3f67112a97c6b",
-  "releaseNotes": "Notes v1.8.121 (Build 293):\n• Improved list and grid scroll smoothness across all screens\n• Refined gesture transitions and media viewer animations",
-  "releaseDate": "2026-11-01T12:55:03Z"
+  "versionCode": 294,
+  "versionName": "1.8.122",
+  "tagName": "v1.8.122-294",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.122-294/app_update_294_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.122-294/app_update_294_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.122-294/app_update_294_calculator.apk",
+  "assetSize": 20199731,
+  "assetSizeNotes": 20199731,
+  "assetSizeCalculator": 20199735,
+  "sha256Notes": "9786c8a7bf2fa04e1af733bbf995e266b4cf45bd63046b36d32527c3780fbb41",
+  "sha256Calculator": "60f0850b6bc1582c94b5d0965801c7bedfb86bcf156cbe61316a978ccd6d608a",
+  "releaseNotes": "Notes v1.8.122 (Build 294):\n• Added 3D depth parallax and seasonal ambient visuals\n• Added cross-tab floating mini audio player with quick navigation",
+  "releaseDate": "2026-11-01T13:36:57Z"
 }
