@@ -1,15 +1,15 @@
 {
-  "versionCode": 295,
-  "versionName": "1.8.123",
-  "tagName": "v1.8.123-295",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.123-295/app_update_295_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.123-295/app_update_295_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.123-295/app_update_295_calculator.apk",
-  "assetSize": 20214931,
-  "assetSizeNotes": 20214931,
-  "assetSizeCalculator": 20214931,
-  "sha256Notes": "49975db5e2bb778fe0400b758b24926a52091b43d2e219234057bcaa34c8e99b",
-  "sha256Calculator": "2097108ab71fabeb552606b09197d0beb125dda7385673c377626b9d7c7f110c",
-  "releaseNotes": "Notes v1.8.123 (Build 295):\n• Improved voice call connection stability, lockscreen alerts, and haptic feedback\n• Enhanced background sync and horizontal tab gesture responsiveness",
-  "releaseDate": "2026-11-01T15:25:26Z"
+  "versionCode": 296,
+  "versionName": "1.8.124",
+  "tagName": "v1.8.124-296",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.124-296/app_update_296_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.124-296/app_update_296_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.124-296/app_update_296_calculator.apk",
+  "assetSize": 20217111,
+  "assetSizeNotes": 20217111,
+  "assetSizeCalculator": 20217103,
+  "sha256Notes": "3436355249563684eb014cb151fab29aca7847f0ff151f3da1ecdb5e8572f061",
+  "sha256Calculator": "a91ff59d710f8c86082b12008aff5b0c43a163df3f4c6a9c1adc80adc1191aef",
+  "releaseNotes": "Notes v1.8.124 (Build 296):\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-02T05:37:16Z"
 }
