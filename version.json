@@ -1,15 +1,15 @@
 {
-  "versionCode": 306,
-  "versionName": "1.8.134",
-  "tagName": "v1.8.134-306",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.134-306/app_update_306_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.134-306/app_update_306_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.134-306/app_update_306_calculator.apk",
-  "assetSize": 20291847,
-  "assetSizeNotes": 20291847,
-  "assetSizeCalculator": 20291847,
-  "sha256Notes": "6ddf08cce9e7dd5404da28bc6cd864a38664d107eca8108146fc6304dabf0efd",
-  "sha256Calculator": "f52a91dd78ae8fc0ec508a276bc9a14321f72de0ab2d3a361320f835dc43df3a",
-  "releaseNotes": "Notes v1.8.134 (Build 306):\n• New anniversary keepsakes for photos, letters, and wishes.",
-  "releaseDate": "2026-11-04T10:17:37Z"
+  "versionCode": 307,
+  "versionName": "1.8.135",
+  "tagName": "v1.8.135-307",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.135-307/app_update_307_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.135-307/app_update_307_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.135-307/app_update_307_calculator.apk",
+  "assetSize": 20288663,
+  "assetSizeNotes": 20288663,
+  "assetSizeCalculator": 20288667,
+  "sha256Notes": "c661c7c4904d1277c551dfb5e74a1be6468a34c1b3f1bad9d679a9025923acf5",
+  "sha256Calculator": "ef110e14e320d218fccc6905bca2429811890669566999dad8e7787dae708dc7",
+  "releaseNotes": "Notes v1.8.135 (Build 307):\n• Chat scrolling stops smoothly.\n• The call screen suppresses duplicate floating call alerts.\n• Improved headset controls, hold, and resume after cellular interruptions.",
+  "releaseDate": "2026-11-04T12:15:18Z"
 }
