@@ -1,15 +1,15 @@
 {
-  "versionCode": 305,
-  "versionName": "1.8.133",
-  "tagName": "v1.8.133-305",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.133-305/app_update_305_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.133-305/app_update_305_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.133-305/app_update_305_calculator.apk",
-  "assetSize": 20271675,
-  "assetSizeNotes": 20271675,
-  "assetSizeCalculator": 20271679,
-  "sha256Notes": "d96d6ebaff0a8f990f6f8a898fe240768f89edb20883b02fc62fda4c1e7bba62",
-  "sha256Calculator": "b892699dd2a8406d2bb10e53c5fcfde4f94cbaabf631cfbff86b8d41f0a99827",
-  "releaseNotes": "Notes v1.8.133 (Build 305):\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-04T09:38:30Z"
+  "versionCode": 306,
+  "versionName": "1.8.134",
+  "tagName": "v1.8.134-306",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.134-306/app_update_306_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.134-306/app_update_306_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.134-306/app_update_306_calculator.apk",
+  "assetSize": 20291847,
+  "assetSizeNotes": 20291847,
+  "assetSizeCalculator": 20291847,
+  "sha256Notes": "6ddf08cce9e7dd5404da28bc6cd864a38664d107eca8108146fc6304dabf0efd",
+  "sha256Calculator": "f52a91dd78ae8fc0ec508a276bc9a14321f72de0ab2d3a361320f835dc43df3a",
+  "releaseNotes": "Notes v1.8.134 (Build 306):\n• New anniversary keepsakes for photos, letters, and wishes.",
+  "releaseDate": "2026-11-04T10:17:37Z"
 }
