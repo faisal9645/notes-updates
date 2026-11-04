@@ -1,15 +1,15 @@
 {
-  "versionCode": 307,
-  "versionName": "1.8.135",
-  "tagName": "v1.8.135-307",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.135-307/app_update_307_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.135-307/app_update_307_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.135-307/app_update_307_calculator.apk",
-  "assetSize": 20288663,
-  "assetSizeNotes": 20288663,
-  "assetSizeCalculator": 20288667,
-  "sha256Notes": "c661c7c4904d1277c551dfb5e74a1be6468a34c1b3f1bad9d679a9025923acf5",
-  "sha256Calculator": "ef110e14e320d218fccc6905bca2429811890669566999dad8e7787dae708dc7",
-  "releaseNotes": "Notes v1.8.135 (Build 307):\n• Chat scrolling stops smoothly.\n• The call screen suppresses duplicate floating call alerts.\n• Improved headset controls, hold, and resume after cellular interruptions.",
-  "releaseDate": "2026-11-04T12:15:18Z"
+  "versionCode": 308,
+  "versionName": "1.8.136",
+  "tagName": "v1.8.136-308",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.136-308/app_update_308_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.136-308/app_update_308_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.136-308/app_update_308_calculator.apk",
+  "assetSize": 20299115,
+  "assetSizeNotes": 20299115,
+  "assetSizeCalculator": 20299111,
+  "sha256Notes": "874eee82d524877624c3584a6d739195ebdebd3556bf15adcd3c3a1e6b9f2853",
+  "sha256Calculator": "d91de288c7c496a31e436d989bf695e7d4fb911d9e4fd17ddcf3d5afb7bb3ccd",
+  "releaseNotes": "Notes v1.8.136 (Build 308):\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-04T14:15:45Z"
 }
