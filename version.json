@@ -1,15 +1,15 @@
 {
-  "versionCode": 303,
-  "versionName": "1.8.131",
-  "tagName": "v1.8.131-303",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.131-303/app_update_303_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.131-303/app_update_303_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.131-303/app_update_303_calculator.apk",
-  "assetSize": 20272563,
-  "assetSizeNotes": 20272563,
-  "assetSizeCalculator": 20272559,
-  "sha256Notes": "533d9e559296fc84caadd371d388bfb046f4760ecf6b02c482e73c13004ae868",
-  "sha256Calculator": "2fe40d4b83bf4f1d461754d23954f1b38b8a86c530e8873033663874566ddcc3",
-  "releaseNotes": "Notes v1.8.131 (Build 303):\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-03T15:37:28Z"
+  "versionCode": 304,
+  "versionName": "1.8.132",
+  "tagName": "v1.8.132-304",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.132-304/app_update_304_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.132-304/app_update_304_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.132-304/app_update_304_calculator.apk",
+  "assetSize": 20271211,
+  "assetSizeNotes": 20271211,
+  "assetSizeCalculator": 20271203,
+  "sha256Notes": "5bc7db245fa8261495349e1660174af7718e0adc9e5a80a8673c77b67da742dd",
+  "sha256Calculator": "67aaaf7c7fd662543ab72d5de76d37361dca3c996e446123dd78303857ac5782",
+  "releaseNotes": "Notes v1.8.132 (Build 304):\n• Improved daily usage accuracy and reduced unnecessary background work.\n• Updated chat actions, visual effects, and profile settings.",
+  "releaseDate": "2026-11-04T09:03:47Z"
 }
