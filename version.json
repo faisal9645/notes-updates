@@ -1,15 +1,15 @@
 {
-  "versionCode": 310,
-  "versionName": "1.8.138",
-  "tagName": "v1.8.138-310",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.138-310/app_update_310_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.138-310/app_update_310_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.138-310/app_update_310_calculator.apk",
-  "assetSize": 20316743,
-  "assetSizeNotes": 20316743,
-  "assetSizeCalculator": 20316735,
-  "sha256Notes": "ca9b96542080e29e7e8527e9a94c7f39a146b2ec0c268cae5dca6222dd36e352",
-  "sha256Calculator": "8d457fdc65ee56a8635e275d90fb4465046873bab129c9a8bc68e52d9b214d6f",
-  "releaseNotes": "Notes v1.8.138 (Build 310):\n• Bug fixes and refinements.",
-  "releaseDate": "2026-11-05T07:48:29Z"
+  "versionCode": 311,
+  "versionName": "1.8.139",
+  "tagName": "v1.8.139-311",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.139-311/app_update_311_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.139-311/app_update_311_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.139-311/app_update_311_calculator.apk",
+  "assetSize": 20317247,
+  "assetSizeNotes": 20317247,
+  "assetSizeCalculator": 20317247,
+  "sha256Notes": "de94b3e7e7a62ac27487e86865fc1c0429ba9ee35c1f2e0bf6cdb94ddb55dcb6",
+  "sha256Calculator": "83a4eedd1daacfe081693df9c38756a6d626187ef9b2b6dac4211cf01bff8197",
+  "releaseNotes": "Notes v1.8.139 (Build 311):\n• Improved voice call audio reliability and background performance.\n• Enhanced call stability during screen lock and app switching.\n• Added stealth call privacy mode.",
+  "releaseDate": "2026-11-05T11:19:10Z"
 }
