@@ -1,15 +1,15 @@
 {
-  "versionCode": 309,
-  "versionName": "1.8.137",
-  "tagName": "v1.8.137-309",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.137-309/app_update_309_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.137-309/app_update_309_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.137-309/app_update_309_calculator.apk",
-  "assetSize": 20311891,
-  "assetSizeNotes": 20311891,
-  "assetSizeCalculator": 20311887,
-  "sha256Notes": "388c9a9a7d24bdce121de86017b6f3521bdc0861d28a0f62ea6b76e1e093a2f1",
-  "sha256Calculator": "d00a25fb7ffd332807cf5d22ee2cd5ce245a70edd6d6b5698e97cf44e1b3c3cf",
-  "releaseNotes": "Notes v1.8.137 (Build 309):\n• Improved chat edits, upload retries, and gallery deletion reliability.\n• Improved shared lists, daily questions, and settings save feedback.\n• Improved Watch Together playback and queue handling.",
-  "releaseDate": "2026-11-05T07:02:48Z"
+  "versionCode": 310,
+  "versionName": "1.8.138",
+  "tagName": "v1.8.138-310",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.138-310/app_update_310_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.138-310/app_update_310_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.138-310/app_update_310_calculator.apk",
+  "assetSize": 20316743,
+  "assetSizeNotes": 20316743,
+  "assetSizeCalculator": 20316735,
+  "sha256Notes": "ca9b96542080e29e7e8527e9a94c7f39a146b2ec0c268cae5dca6222dd36e352",
+  "sha256Calculator": "8d457fdc65ee56a8635e275d90fb4465046873bab129c9a8bc68e52d9b214d6f",
+  "releaseNotes": "Notes v1.8.138 (Build 310):\n• Bug fixes and refinements.",
+  "releaseDate": "2026-11-05T07:48:29Z"
 }
