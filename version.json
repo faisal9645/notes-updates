@@ -1,15 +1,15 @@
 {
-  "versionCode": 314,
-  "versionName": "1.8.142",
-  "tagName": "v1.8.142-314",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.142-314/app_update_314_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.142-314/app_update_314_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.142-314/app_update_314_calculator.apk",
-  "assetSize": 20356779,
-  "assetSizeNotes": 20356779,
-  "assetSizeCalculator": 20356775,
-  "sha256Notes": "5e6c9e43c2de8705381d4dc0b08d635db662f97b226cd8fec3e88f195ec3311e",
-  "sha256Calculator": "db9dcfe53b477552508976aaa1438ad6a3e18154b0e804392b9fb57902098451",
-  "releaseNotes": "Notes v1.8.142 (Build 314):\n• Enhanced voice call stability during screen lock and network switches.\n• Refined hug animation rendering and visual transitions.",
-  "releaseDate": "2026-11-06T07:46:44Z"
+  "versionCode": 315,
+  "versionName": "1.8.143",
+  "tagName": "v1.8.143-315",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.143-315/app_update_315_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.143-315/app_update_315_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.143-315/app_update_315_calculator.apk",
+  "assetSize": 20360435,
+  "assetSizeNotes": 20360435,
+  "assetSizeCalculator": 20360431,
+  "sha256Notes": "b8f3bbcbcdcfd13b5639150e5991cf3c780a2dd93f75fb79e44e1bdf7254673d",
+  "sha256Calculator": "c04ed01eb55df0b7d1af6aa38bb7f1c798480b259a50e48ec82d84940bd05670",
+  "releaseNotes": "Notes v1.8.143 (Build 315):\n• Improved quick screenshot preparation and upload performance.\n• Smoothed Watch Party video playback and framing.\n• Optimized gallery image decoding and memory usage.",
+  "releaseDate": "2026-11-06T13:21:26Z"
 }
