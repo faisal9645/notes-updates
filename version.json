@@ -1,15 +1,15 @@
 {
-  "versionCode": 313,
-  "versionName": "1.8.141",
-  "tagName": "v1.8.141-313",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.141-313/app_update_313_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.141-313/app_update_313_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.141-313/app_update_313_calculator.apk",
-  "assetSize": 20353891,
-  "assetSizeNotes": 20353891,
-  "assetSizeCalculator": 20353891,
-  "sha256Notes": "1be0d95eee9617b6e8228a1d2c75e391f89bf7266b2623efb869c2ab11aa7d5d",
-  "sha256Calculator": "01f45fa91d206c648d550a288484812bc70c8d05b15ac1d067b24bc3bf40d2c1",
-  "releaseNotes": "Notes v1.8.141 (Build 313):\n• Bug fixes and refinements.",
-  "releaseDate": "2026-11-06T05:36:11Z"
+  "versionCode": 314,
+  "versionName": "1.8.142",
+  "tagName": "v1.8.142-314",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.142-314/app_update_314_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.142-314/app_update_314_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.142-314/app_update_314_calculator.apk",
+  "assetSize": 20356779,
+  "assetSizeNotes": 20356779,
+  "assetSizeCalculator": 20356775,
+  "sha256Notes": "5e6c9e43c2de8705381d4dc0b08d635db662f97b226cd8fec3e88f195ec3311e",
+  "sha256Calculator": "db9dcfe53b477552508976aaa1438ad6a3e18154b0e804392b9fb57902098451",
+  "releaseNotes": "Notes v1.8.142 (Build 314):\n• Enhanced voice call stability during screen lock and network switches.\n• Refined hug animation rendering and visual transitions.",
+  "releaseDate": "2026-11-06T07:46:44Z"
 }
