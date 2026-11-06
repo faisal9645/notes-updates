@@ -1,15 +1,15 @@
 {
-  "versionCode": 312,
-  "versionName": "1.8.140",
-  "tagName": "v1.8.140-312",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.140-312/app_update_312_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.140-312/app_update_312_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.140-312/app_update_312_calculator.apk",
-  "assetSize": 20334391,
-  "assetSizeNotes": 20334391,
-  "assetSizeCalculator": 20334391,
-  "sha256Notes": "a244373dabdcd6f38816c24fa8edcc5151194a8f17356bb6a812428731c95303",
-  "sha256Calculator": "1bcf31e605121600bceccb6648724345ff48c15e1b32a1303cde5a05c1331b5c",
-  "releaseNotes": "Notes v1.8.140 (Build 312):\n• Storage categories and cleanup size previews\n• Automatic cleanup of old downloads while keeping thumbnails\n• Optional quick screenshot sharing from a small window\n• Smoother photo previews",
-  "releaseDate": "2026-11-05T13:04:59Z"
+  "versionCode": 313,
+  "versionName": "1.8.141",
+  "tagName": "v1.8.141-313",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.141-313/app_update_313_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.141-313/app_update_313_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.141-313/app_update_313_calculator.apk",
+  "assetSize": 20353891,
+  "assetSizeNotes": 20353891,
+  "assetSizeCalculator": 20353891,
+  "sha256Notes": "1be0d95eee9617b6e8228a1d2c75e391f89bf7266b2623efb869c2ab11aa7d5d",
+  "sha256Calculator": "01f45fa91d206c648d550a288484812bc70c8d05b15ac1d067b24bc3bf40d2c1",
+  "releaseNotes": "Notes v1.8.141 (Build 313):\n• Bug fixes and refinements.",
+  "releaseDate": "2026-11-06T05:36:11Z"
 }
