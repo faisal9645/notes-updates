@@ -1,15 +1,15 @@
 {
-  "versionCode": 320,
-  "versionName": "1.8.148",
-  "tagName": "v1.8.148-320",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.148-320/app_update_320_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.148-320/app_update_320_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.148-320/app_update_320_calculator.apk",
-  "assetSize": 20395839,
-  "assetSizeNotes": 20395839,
-  "assetSizeCalculator": 20395835,
-  "sha256Notes": "6274a403fa9c493ea9256ded9e0a673028da1825a8a6480254433aa4925678bd",
-  "sha256Calculator": "e77293ee699e9c9ad173b1a3076138a8b916725977afb67b684b30d2ef6d82a1",
-  "releaseNotes": "Notes v1.8.148 (Build 320):\n• Full-height gallery with floating sorting and smoother scrolling across grid sizes.\n• Cleaner gallery tabs without the top loading line.\n• Faster Show in Chat with a softer message highlight.\n• Cached history appears sooner with refreshed gallery details.\n• Tighter Love Us spacing and more reliable Watch Together countdowns.",
-  "releaseDate": "2026-11-17T08:38:31Z"
+  "versionCode": 321,
+  "versionName": "1.8.149",
+  "tagName": "v1.8.149-321",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.149-321/app_update_321_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.149-321/app_update_321_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.149-321/app_update_321_calculator.apk",
+  "assetSize": 20500075,
+  "assetSizeNotes": 20500075,
+  "assetSizeCalculator": 20500063,
+  "sha256Notes": "10dcf97d41866e18c2191659609c738222547bf93c6107a0c5e1c5af61a1c039",
+  "sha256Calculator": "9cd80c79f640fc8d390960a30a53c02a0bc137f98f1b5b45f627bf6200690671",
+  "releaseNotes": "Notes v1.8.149 (Build 321):\n• Real animated emojis for standalone emoji messages in chat.\n• Automatic cache indexing for faster chat and gallery loading.\n• Attending a call automatically updates online presence and status.",
+  "releaseDate": "2026-11-17T17:11:29Z"
 }
