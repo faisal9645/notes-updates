@@ -1,15 +1,15 @@
 {
-  "versionCode": 318,
-  "versionName": "1.8.146",
-  "tagName": "v1.8.146-318",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.146-318/app_update_318_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.146-318/app_update_318_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.146-318/app_update_318_calculator.apk",
-  "assetSize": 20395967,
-  "assetSizeNotes": 20395967,
-  "assetSizeCalculator": 20395963,
-  "sha256Notes": "7ddc9b4ab3042a7961714176c561a32dd4106328287b53d32ed44518021b5bdb",
-  "sha256Calculator": "d7ea155cecacdff3457ea10b05b6c73ac43f42565a596c6ea4e413d0a6dea3f4",
-  "releaseNotes": "Notes v1.8.146 (Build 318):\n• Monthly call totals, last-call reminders, and chat refinements.\n• Improved shared gallery search, sorting, and selection.",
-  "releaseDate": "2026-11-16T19:14:46Z"
+  "versionCode": 319,
+  "versionName": "1.8.147",
+  "tagName": "v1.8.147-319",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.147-319/app_update_319_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.147-319/app_update_319_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.147-319/app_update_319_calculator.apk",
+  "assetSize": 20395475,
+  "assetSizeNotes": 20395475,
+  "assetSizeCalculator": 20395471,
+  "sha256Notes": "53d151bd2485f02e2e12e97f9da122ffd5e2433b3366f9a9ebd5e675814d0821",
+  "sha256Calculator": "56a249f07251d9a4ea591f9e9c6a04ae1e65475ad6dba3801a0734bfc44fde9a",
+  "releaseNotes": "Notes v1.8.147 (Build 319):\n• Expand gallery search from the top icon and sort by date with the bottom control.\n• Smoother photo previews, tap-to-toggle video controls, and normal chat scrolling.\n• Improved lock-screen answering and accurate shared call totals.\n• Restore the original dark-theme colors.",
+  "releaseDate": "2026-11-17T04:59:05Z"
 }
