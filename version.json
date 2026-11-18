@@ -1,15 +1,15 @@
 {
-  "versionCode": 321,
-  "versionName": "1.8.149",
-  "tagName": "v1.8.149-321",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.149-321/app_update_321_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.149-321/app_update_321_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.149-321/app_update_321_calculator.apk",
-  "assetSize": 20500075,
-  "assetSizeNotes": 20500075,
-  "assetSizeCalculator": 20500063,
-  "sha256Notes": "10dcf97d41866e18c2191659609c738222547bf93c6107a0c5e1c5af61a1c039",
-  "sha256Calculator": "9cd80c79f640fc8d390960a30a53c02a0bc137f98f1b5b45f627bf6200690671",
-  "releaseNotes": "Notes v1.8.149 (Build 321):\n• Real animated emojis for standalone emoji messages in chat.\n• Automatic cache indexing for faster chat and gallery loading.\n• Attending a call automatically updates online presence and status.",
-  "releaseDate": "2026-11-17T17:11:29Z"
+  "versionCode": 322,
+  "versionName": "1.8.150",
+  "tagName": "v1.8.150-322",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.150-322/app_update_322_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.150-322/app_update_322_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.150-322/app_update_322_calculator.apk",
+  "assetSize": 20541915,
+  "assetSizeNotes": 20541915,
+  "assetSizeCalculator": 20541911,
+  "sha256Notes": "4429100e25a3a46c3c2ffb37d293201bb1c49897e34cd8b2b02ff2f854964bff",
+  "sha256Calculator": "906f2fc51aff49294a83961bdd8c64f4def9139ef7fb7cdc86104d6b0909f7ea",
+  "releaseNotes": "Notes v1.8.150 (Build 322):\n• Listen Together on calls: play music or an audiobook for both of you, softened automatically while either of you talks.\n• Smoother chat scrolling past big emojis, which now rest on the frame they finish on.\n• The shared gallery opens straight away, without empty flashes or removed photos blinking in.\n• Message menu with quick Reply, Copy, Star and Pin buttons.\n• Copy or star several selected messages at once.\n• Search shows \"1 of N\" with previous and next arrows in the top bar.\n• Refreshed chat top bar and message bar.",
+  "releaseDate": "2026-11-18T06:40:11Z"
 }
