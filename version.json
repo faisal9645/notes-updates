@@ -1,15 +1,15 @@
 {
-  "versionCode": 323,
-  "versionName": "1.8.151",
-  "tagName": "v1.8.151-323",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.151-323/app_update_323_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.151-323/app_update_323_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.151-323/app_update_323_calculator.apk",
-  "assetSize": 20577187,
-  "assetSizeNotes": 20577187,
-  "assetSizeCalculator": 20577191,
-  "sha256Notes": "8d9fa4a6829ea67fcb4b3f8c3656b05ef8b7fc9a14a45f9de536690c7c97c691",
-  "sha256Calculator": "59cd531190cdeb7a793179c26af9ef07d83cdc93915ef3fb78970030a9fba30c",
-  "releaseNotes": "Notes v1.8.151 (Build 323):\n• Message menu with quick Reply, Copy, Star and Pin buttons.\n• Copy or star several selected messages at once.\n• In-chat search navigation with previous/next buttons and match count.\n• Call audio and connection reliability refinements.\n• General performance optimizations and bug fixes.",
-  "releaseDate": "2026-11-18T18:32:17Z"
+  "versionCode": 324,
+  "versionName": "1.8.152",
+  "tagName": "v1.8.152-324",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.152-324/app_update_324_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.152-324/app_update_324_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.152-324/app_update_324_calculator.apk",
+  "assetSize": 23554515,
+  "assetSizeNotes": 23554515,
+  "assetSizeCalculator": 23554515,
+  "sha256Notes": "fe6cf13e18fceeac659f2cac2733a23122edee524fa8d03b3029653ce5cdbcee",
+  "sha256Calculator": "fddd6c53aabb2531e09a03ef101fc80cda2bf9c50f3bc9840f9b180fbcb03654",
+  "releaseNotes": "Notes v1.8.152 (Build 324):\n• Smoother emoji rendering and sizing in chat.\n• General stability improvements and bug fixes.",
+  "releaseDate": "2026-11-19T05:50:27Z"
 }
