@@ -1,15 +1,15 @@
 {
-  "versionCode": 329,
-  "versionName": "1.8.157",
-  "tagName": "v1.8.157-329",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.157-329/app_update_329_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.157-329/app_update_329_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.157-329/app_update_329_calculator.apk",
-  "assetSize": 23555339,
-  "assetSizeNotes": 23555339,
-  "assetSizeCalculator": 23555339,
-  "sha256Notes": "5f6f76cc5ed340907f5cef3bfb76e439386d043c50451a13ad7fe0ae4584a177",
-  "sha256Calculator": "ddafd3457aac0ee655ed0c73dd1090baffc793cc145dcff61b0ebf833685d475",
-  "releaseNotes": "Notes v1.8.157 (Build 329):\n• Fixes a crash when opening Cherish from Notes or Calculator after restarting the app.\n• Makes opening chat from message reminders more reliable.",
-  "releaseDate": "2026-11-20T11:14:08Z"
+  "versionCode": 330,
+  "versionName": "1.8.158",
+  "tagName": "v1.8.158-330",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.158-330/app_update_330_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.158-330/app_update_330_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.158-330/app_update_330_calculator.apk",
+  "assetSize": 23558343,
+  "assetSizeNotes": 23558343,
+  "assetSizeCalculator": 23558339,
+  "sha256Notes": "84e941e349539837c5d5d1871a509e3d4c30013335b8ad3a9205edf2a15dea5f",
+  "sha256Calculator": "e7c020984c975cecff45760ff9f979fc0fa26b09d0332e2aa345a2c19884d964",
+  "releaseNotes": "Notes v1.8.158 (Build 330):\n• Everything is a little smaller on compact phones, so more fits on each screen\n• More room to type on compact phones",
+  "releaseDate": "2026-11-20T12:55:20Z"
 }
