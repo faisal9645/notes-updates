@@ -1,15 +1,15 @@
 {
-  "versionCode": 327,
-  "versionName": "1.8.155",
-  "tagName": "v1.8.155-327",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.155-327/app_update_327_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.155-327/app_update_327_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.155-327/app_update_327_calculator.apk",
-  "assetSize": 23559355,
-  "assetSizeNotes": 23559355,
-  "assetSizeCalculator": 23559351,
-  "sha256Notes": "70839c0580dc898f2b76ed636aba43357fec778bc5db248cd7c6487983e60a98",
-  "sha256Calculator": "e42e6ff8bf442610814f6c8f62edbccd14288a6fb429cb87064dcb8221c459cc",
-  "releaseNotes": "Notes v1.8.155 (Build 327):\n• Clean and responsive app launch improvements.\n• Smoother list rendering and stability refinements.",
-  "releaseDate": "2026-11-20T05:23:17Z"
+  "versionCode": 328,
+  "versionName": "1.8.156",
+  "tagName": "v1.8.156-328",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.156-328/app_update_328_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.156-328/app_update_328_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.156-328/app_update_328_calculator.apk",
+  "assetSize": 23559423,
+  "assetSizeNotes": 23559423,
+  "assetSizeCalculator": 23559427,
+  "sha256Notes": "168b0c1fc1c856a90954b3e5f5ca8efafd09ff9985542fd867c1247026c4bc9a",
+  "sha256Calculator": "88c1349340dcb92554906e4d719a2500b7c80b448c932f56160a0930d85b354d",
+  "releaseNotes": "Notes v1.8.156 (Build 328):\n• Fixes the app closing right after it opens",
+  "releaseDate": "2026-11-20T10:18:17Z"
 }
