@@ -1,15 +1,15 @@
 {
-  "versionCode": 326,
-  "versionName": "1.8.154",
-  "tagName": "v1.8.154-326",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.154-326/app_update_326_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.154-326/app_update_326_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.154-326/app_update_326_calculator.apk",
-  "assetSize": 23570135,
-  "assetSizeNotes": 23570135,
-  "assetSizeCalculator": 23570139,
-  "sha256Notes": "bc5aae48e09c32014b8a30efb46d8da3b7c77b45e1928691d73015c262705586",
-  "sha256Calculator": "bac8222fd0f10af7590307e1a4d08e030cb3d71633dbc8bbad5de8c10e26fb59",
-  "releaseNotes": "Notes v1.8.154 (Build 326):\n• Calendar date jump and chat navigation refinements.\n• Message sync improvements and bug fixes.",
-  "releaseDate": "2026-11-20T03:41:49Z"
+  "versionCode": 327,
+  "versionName": "1.8.155",
+  "tagName": "v1.8.155-327",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.155-327/app_update_327_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.155-327/app_update_327_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.155-327/app_update_327_calculator.apk",
+  "assetSize": 23559355,
+  "assetSizeNotes": 23559355,
+  "assetSizeCalculator": 23559351,
+  "sha256Notes": "70839c0580dc898f2b76ed636aba43357fec778bc5db248cd7c6487983e60a98",
+  "sha256Calculator": "e42e6ff8bf442610814f6c8f62edbccd14288a6fb429cb87064dcb8221c459cc",
+  "releaseNotes": "Notes v1.8.155 (Build 327):\n• Clean and responsive app launch improvements.\n• Smoother list rendering and stability refinements.",
+  "releaseDate": "2026-11-20T05:23:17Z"
 }
