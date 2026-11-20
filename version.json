@@ -1,15 +1,15 @@
 {
-  "versionCode": 325,
-  "versionName": "1.8.153",
-  "tagName": "v1.8.153-325",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.153-325/app_update_325_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.153-325/app_update_325_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.153-325/app_update_325_calculator.apk",
-  "assetSize": 23561375,
-  "assetSizeNotes": 23561375,
-  "assetSizeCalculator": 23561375,
-  "sha256Notes": "3188d6d7c86b4e9b6e9f71c425c4357d130a9284d3d9fa6654e9b09338223e23",
-  "sha256Calculator": "ddcb91cc098f70144b5a5c0e62c396f1294b24add1548f9bfeb0d21a66d94659",
-  "releaseNotes": "Notes v1.8.153 (Build 325):\n• Smoother chat scrolling and typing, with partner updates handled in the background.\n• The Good Night stars, the wallpaper tilt and the photo shine rest while you scroll or type.\n• A double tap no longer starts a call twice, flips stealth twice or runs two message actions.",
-  "releaseDate": "2026-11-19T21:27:32Z"
+  "versionCode": 326,
+  "versionName": "1.8.154",
+  "tagName": "v1.8.154-326",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.154-326/app_update_326_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.154-326/app_update_326_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.154-326/app_update_326_calculator.apk",
+  "assetSize": 23570135,
+  "assetSizeNotes": 23570135,
+  "assetSizeCalculator": 23570139,
+  "sha256Notes": "bc5aae48e09c32014b8a30efb46d8da3b7c77b45e1928691d73015c262705586",
+  "sha256Calculator": "bac8222fd0f10af7590307e1a4d08e030cb3d71633dbc8bbad5de8c10e26fb59",
+  "releaseNotes": "Notes v1.8.154 (Build 326):\n• Calendar date jump and chat navigation refinements.\n• Message sync improvements and bug fixes.",
+  "releaseDate": "2026-11-20T03:41:49Z"
 }
