@@ -1,15 +1,15 @@
 {
-  "versionCode": 331,
-  "versionName": "1.8.159",
-  "tagName": "v1.8.159-331",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.159-331/app_update_331_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.159-331/app_update_331_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.159-331/app_update_331_calculator.apk",
-  "assetSize": 23447950,
-  "assetSizeNotes": 23447950,
-  "assetSizeCalculator": 23447950,
-  "sha256Notes": "166436b55bf74f43bf4a33fbb6044bb072ddf002e6ceecb75da47ac3de64a74a",
-  "sha256Calculator": "7f4c53e2d881d23f5289b650093562efcd6f730df752d40e7423ad304388888e",
-  "releaseNotes": "Notes v1.8.159 (Build 331):\n• New hand-drawn doodle background, crisp and sharp on every screen",
-  "releaseDate": "2026-11-20T14:16:29Z"
+  "versionCode": 332,
+  "versionName": "1.8.160",
+  "tagName": "v1.8.160-332",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.160-332/app_update_332_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.160-332/app_update_332_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.160-332/app_update_332_calculator.apk",
+  "assetSize": 23498038,
+  "assetSizeNotes": 23498038,
+  "assetSizeCalculator": 23498034,
+  "sha256Notes": "c30aa8ac12b34528087f2201b666dcf40a5158201bf3d717fe66bc33ad6c354a",
+  "sha256Calculator": "187fd3a5405178230ec7fa71436cbee6c86406f847a6f89d18a24ef76569a5a3",
+  "releaseNotes": "Notes v1.8.160 (Build 332):\n• Bug fixes and refinements.",
+  "releaseDate": "2026-11-21T17:26:53Z"
 }
