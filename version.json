@@ -1,15 +1,15 @@
 {
-  "versionCode": 332,
-  "versionName": "1.8.160",
-  "tagName": "v1.8.160-332",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.160-332/app_update_332_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.160-332/app_update_332_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.160-332/app_update_332_calculator.apk",
-  "assetSize": 23498038,
-  "assetSizeNotes": 23498038,
-  "assetSizeCalculator": 23498034,
-  "sha256Notes": "c30aa8ac12b34528087f2201b666dcf40a5158201bf3d717fe66bc33ad6c354a",
-  "sha256Calculator": "187fd3a5405178230ec7fa71436cbee6c86406f847a6f89d18a24ef76569a5a3",
-  "releaseNotes": "Notes v1.8.160 (Build 332):\n• Bug fixes and refinements.",
-  "releaseDate": "2026-11-21T17:26:53Z"
+  "versionCode": 333,
+  "versionName": "1.8.161",
+  "tagName": "v1.8.161-333",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.161-333/app_update_333_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.161-333/app_update_333_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.161-333/app_update_333_calculator.apk",
+  "assetSize": 23490762,
+  "assetSizeNotes": 23490762,
+  "assetSizeCalculator": 23490762,
+  "sha256Notes": "dba1339c925fbd87f0d2ff29d924b7506cca6a8f40bed1a9f070a9f5960374c2",
+  "sha256Calculator": "eb14146457841198859bc629a04057f5146eb179395119dc41441ac370320955",
+  "releaseNotes": "Notes v1.8.161 (Build 333):\n• Deleting a message removes it from both phones right away, older messages included\n• The \"What's new\" popup after updates is removed",
+  "releaseDate": "2026-11-21T17:54:11Z"
 }
