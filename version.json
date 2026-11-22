@@ -1,15 +1,15 @@
 {
-  "versionCode": 334,
-  "versionName": "1.8.162",
-  "tagName": "v1.8.162-334",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.162-334/app_update_334_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.162-334/app_update_334_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.162-334/app_update_334_calculator.apk",
-  "assetSize": 23493722,
-  "assetSizeNotes": 23493722,
-  "assetSizeCalculator": 23493722,
-  "sha256Notes": "b3226555586f07fd3ff38129da61675c241f05a5d51f174ab7054069fe2ea8a0",
-  "sha256Calculator": "f91b3a3b6394b83b9ef2a88b8f1aef76dde60f26d8305e071c12b0a52ce82400",
-  "releaseNotes": "Notes v1.8.162 (Build 334):\n• The nightly cleanup runs while the phone charges and keeps recent photos and videos\n• Storage settings show when the cleanup last ran and how much it freed",
-  "releaseDate": "2026-11-22T05:08:08Z"
+  "versionCode": 335,
+  "versionName": "1.8.163",
+  "tagName": "v1.8.163-335",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.163-335/app_update_335_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.163-335/app_update_335_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.163-335/app_update_335_calculator.apk",
+  "assetSize": 23502274,
+  "assetSizeNotes": 23502274,
+  "assetSizeCalculator": 23502274,
+  "sha256Notes": "4a754771402eb48e48c95b011b30cbf62b1173c6fceded73b97213e6ef7a506b",
+  "sha256Calculator": "9be3d853f5dda801e17ec92d3b4e28c339f8608c374e8dc573a6f2eebf3f3311",
+  "releaseNotes": "Notes v1.8.163 (Build 335):\n• Smoothed launcher icon transitions in settings\n• Refined face-down sensor detection to avoid false triggers while lying down\n• Polished photo viewer transition animations",
+  "releaseDate": "2026-11-22T13:54:59Z"
 }
