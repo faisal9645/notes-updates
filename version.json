@@ -1,15 +1,15 @@
 {
-  "versionCode": 336,
-  "versionName": "1.8.164",
-  "tagName": "v1.8.164-336",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.164-336/app_update_336_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.164-336/app_update_336_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.164-336/app_update_336_calculator.apk",
-  "assetSize": 23501218,
-  "assetSizeNotes": 23501218,
-  "assetSizeCalculator": 23501218,
-  "sha256Notes": "0dcd3c418f1c9cbad165e7f292d283cd6cd31cb7eb5abc9e11bcb25f66706261",
-  "sha256Calculator": "8023eddfd47ff3cdf82833508bcfd4a0c88ebc298a0238e98841d3ee9310ca3b",
-  "releaseNotes": "Notes v1.8.164 (Build 336):\n• Settings > Privacy > Chat History: keep everything in view like a normal chat app, or show only today with Recover all\n• Daily cleanup clears the downloaded copies of older chats and media every night before 6 AM, or on the next open if the phone held it back\n• Full cleanup now in Storage works on this phone only, and Recover all brings everything back\n• Installing the app fresh is no longer blocked by Play Protect\n• Dark mode text back in the original theme colour",
-  "releaseDate": "2026-11-23T06:20:35Z"
+  "versionCode": 337,
+  "versionName": "1.8.165",
+  "tagName": "v1.8.165-337",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.165-337/app_update_337_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.165-337/app_update_337_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.165-337/app_update_337_calculator.apk",
+  "assetSize": 23508006,
+  "assetSizeNotes": 23508006,
+  "assetSizeCalculator": 23508010,
+  "sha256Notes": "c51edf613a5db4a4409d27f7f772c10f9c81feef650d8b6fba00ec3a8fa475e5",
+  "sha256Calculator": "ea1704e6c6c6dd5e7c0932cb423e8dfe0863bbfa266ce6510b2396f01ebcd842",
+  "releaseNotes": "Notes v1.8.165 (Build 337):\n• Bug fixes and refinements.",
+  "releaseDate": "2026-11-23T09:13:40Z"
 }
