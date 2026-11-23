@@ -1,15 +1,15 @@
 {
-  "versionCode": 335,
-  "versionName": "1.8.163",
-  "tagName": "v1.8.163-335",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.163-335/app_update_335_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.163-335/app_update_335_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.163-335/app_update_335_calculator.apk",
-  "assetSize": 23502274,
-  "assetSizeNotes": 23502274,
-  "assetSizeCalculator": 23502274,
-  "sha256Notes": "4a754771402eb48e48c95b011b30cbf62b1173c6fceded73b97213e6ef7a506b",
-  "sha256Calculator": "9be3d853f5dda801e17ec92d3b4e28c339f8608c374e8dc573a6f2eebf3f3311",
-  "releaseNotes": "Notes v1.8.163 (Build 335):\n• Smoothed launcher icon transitions in settings\n• Refined face-down sensor detection to avoid false triggers while lying down\n• Polished photo viewer transition animations",
-  "releaseDate": "2026-11-22T13:54:59Z"
+  "versionCode": 336,
+  "versionName": "1.8.164",
+  "tagName": "v1.8.164-336",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.164-336/app_update_336_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.164-336/app_update_336_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.164-336/app_update_336_calculator.apk",
+  "assetSize": 23501218,
+  "assetSizeNotes": 23501218,
+  "assetSizeCalculator": 23501218,
+  "sha256Notes": "0dcd3c418f1c9cbad165e7f292d283cd6cd31cb7eb5abc9e11bcb25f66706261",
+  "sha256Calculator": "8023eddfd47ff3cdf82833508bcfd4a0c88ebc298a0238e98841d3ee9310ca3b",
+  "releaseNotes": "Notes v1.8.164 (Build 336):\n• Settings > Privacy > Chat History: keep everything in view like a normal chat app, or show only today with Recover all\n• Daily cleanup clears the downloaded copies of older chats and media every night before 6 AM, or on the next open if the phone held it back\n• Full cleanup now in Storage works on this phone only, and Recover all brings everything back\n• Installing the app fresh is no longer blocked by Play Protect\n• Dark mode text back in the original theme colour",
+  "releaseDate": "2026-11-23T06:20:35Z"
 }
