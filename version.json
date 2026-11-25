@@ -1,15 +1,15 @@
 {
-  "versionCode": 340,
-  "versionName": "1.8.168",
-  "tagName": "v1.8.168-340",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.168-340/app_update_340_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.168-340/app_update_340_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.168-340/app_update_340_calculator.apk",
-  "assetSize": 23550266,
-  "assetSizeNotes": 23550266,
-  "assetSizeCalculator": 23550266,
-  "sha256Notes": "8a99f587e7742920f673a256f659900ff67a58b78814f34cc5a8975fdccece4d",
-  "sha256Calculator": "550f01747fca7b882e2782318bf17e7f53531201dfe0409acb9b53835b5dc1cf",
-  "releaseNotes": "Notes v1.8.168 (Build 340):\n• Updates install more reliably",
-  "releaseDate": "2026-11-25T21:13:54Z"
+  "versionCode": 341,
+  "versionName": "1.8.169",
+  "tagName": "v1.8.169-341",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.169-341/app_update_341_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.169-341/app_update_341_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.169-341/app_update_341_calculator.apk",
+  "assetSize": 23566778,
+  "assetSizeNotes": 23566778,
+  "assetSizeCalculator": 23566782,
+  "sha256Notes": "5401c911786b77bbdf4f8a0641c69e60ebee45d222bddc2e9b075db57f239ea0",
+  "sha256Calculator": "fd3de3b1a015c3c7700757bb70e9045a7c4760f6838e12d7844e358768b59af4",
+  "releaseNotes": "Notes v1.8.169 (Build 341):\n• Safer sign-in on new devices\n• Uses less storage\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-25T23:25:34Z"
 }
