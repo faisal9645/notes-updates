@@ -1,15 +1,15 @@
 {
-  "versionCode": 345,
-  "versionName": "1.8.173",
-  "tagName": "v1.8.173-345",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.173-345/app_update_345_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.173-345/app_update_345_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.173-345/app_update_345_calculator.apk",
-  "assetSize": 23614462,
-  "assetSizeNotes": 23614462,
-  "assetSizeCalculator": 23614462,
-  "sha256Notes": "cd017bd500cb1b4ea41d0c88a3bb959d100777c56ad7d74b607ef069ae9469ec",
-  "sha256Calculator": "8a7027f63a862304e7db3f36c2b3daa05b6cbdf362d61f0340ba49ae727733e7",
-  "releaseNotes": "Notes v1.8.173 (Build 345):\n• Direct sharing for YouTube links and photos\n• Long screenshots inside the app\n• Shared Gallery Not yet opened filter & portrait YouTube Shorts fullscreen\n• Smoother photo viewing, accurate storage stats, and monthly recaps\n• Cross-region call reliability and stealth call status improvements",
-  "releaseDate": "2026-11-26T18:49:58Z"
+  "versionCode": 346,
+  "versionName": "1.8.174",
+  "tagName": "v1.8.174-346",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.174-346/app_update_346_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.174-346/app_update_346_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.174-346/app_update_346_calculator.apk",
+  "assetSize": 23638666,
+  "assetSizeNotes": 23638666,
+  "assetSizeCalculator": 23638666,
+  "sha256Notes": "983f69458904c17f37d428bfa4ee0045cd4d2b5f71360997f980c4b9951f4ec9",
+  "sha256Calculator": "c355f17877cdbb0e5751618fa1b23772dcf08e3bf4bfd60a54b1a8d684ec00aa",
+  "releaseNotes": "Notes v1.8.174 (Build 346):\n• Reliable partner updates when opening the Love & Us tab\n• Smoother Watch Together sync, mini-player drag, and audio ducking\n• Watch Together Up Next Queue, Whispers, and Voice Snippets\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-26T20:32:56Z"
 }
