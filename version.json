@@ -1,15 +1,15 @@
 {
-  "versionCode": 344,
-  "versionName": "1.8.172",
-  "tagName": "v1.8.172-344",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.172-344/app_update_344_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.172-344/app_update_344_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.172-344/app_update_344_calculator.apk",
-  "assetSize": 23583234,
-  "assetSizeNotes": 23583234,
-  "assetSizeCalculator": 23583238,
-  "sha256Notes": "885bc28d205353d4c10ed2a96a04701cce04f2fff030851e1aa3a8fe01cf0406",
-  "sha256Calculator": "d8bc24e7eb06aa17cecf86ec78f8c4b55c9ac24739496cb48c793db2c7e2b1a5",
-  "releaseNotes": "Notes v1.8.172 (Build 344):\n• Online status is more accurate during calls\n• Easier sign-in\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-26T16:56:31Z"
+  "versionCode": 345,
+  "versionName": "1.8.173",
+  "tagName": "v1.8.173-345",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.173-345/app_update_345_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.173-345/app_update_345_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.173-345/app_update_345_calculator.apk",
+  "assetSize": 23614462,
+  "assetSizeNotes": 23614462,
+  "assetSizeCalculator": 23614462,
+  "sha256Notes": "cd017bd500cb1b4ea41d0c88a3bb959d100777c56ad7d74b607ef069ae9469ec",
+  "sha256Calculator": "8a7027f63a862304e7db3f36c2b3daa05b6cbdf362d61f0340ba49ae727733e7",
+  "releaseNotes": "Notes v1.8.173 (Build 345):\n• Direct sharing for YouTube links and photos\n• Long screenshots inside the app\n• Shared Gallery Not yet opened filter & portrait YouTube Shorts fullscreen\n• Smoother photo viewing, accurate storage stats, and monthly recaps\n• Cross-region call reliability and stealth call status improvements",
+  "releaseDate": "2026-11-26T18:49:58Z"
 }
