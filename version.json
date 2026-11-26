@@ -1,15 +1,15 @@
 {
-  "versionCode": 342,
-  "versionName": "1.8.170",
-  "tagName": "v1.8.170-342",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.170-342/app_update_342_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.170-342/app_update_342_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.170-342/app_update_342_calculator.apk",
-  "assetSize": 23568714,
-  "assetSizeNotes": 23568714,
-  "assetSizeCalculator": 23568718,
-  "sha256Notes": "5ed4b41dcff07596c434dd3d1f40c1e8beacd29e52dfe01b7c98fcd045ab35c6",
-  "sha256Calculator": "eec006e0d4d586045a8da32ea9de8f59502a8a1244057a29c4d949343bed854d",
-  "releaseNotes": "Notes v1.8.170 (Build 342):\n• Uses less battery and mobile data\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-25T23:55:29Z"
+  "versionCode": 343,
+  "versionName": "1.8.171",
+  "tagName": "v1.8.171-343",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.171-343/app_update_343_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.171-343/app_update_343_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.171-343/app_update_343_calculator.apk",
+  "assetSize": 23582938,
+  "assetSizeNotes": 23582938,
+  "assetSizeCalculator": 23582942,
+  "sha256Notes": "9b2a26fdc9bddeef30acbb4745b6407b9421f034ae48dd677e8501f64774683a",
+  "sha256Calculator": "f0d53c658b5994b8a5b6aaa3489d8cfa0e898a5ef093c0ebe6ac3e48b157b1a7",
+  "releaseNotes": "Notes v1.8.171 (Build 343):\n• Online status is more accurate\n• Faster gallery\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-26T01:06:56Z"
 }
