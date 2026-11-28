@@ -1,15 +1,15 @@
 {
-  "versionCode": 352,
-  "versionName": "1.8.180",
-  "tagName": "v1.8.180-352",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.180-352/app_update_352_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.180-352/app_update_352_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.180-352/app_update_352_calculator.apk",
-  "assetSize": 23737330,
-  "assetSizeNotes": 23737330,
-  "assetSizeCalculator": 23737334,
-  "sha256Notes": "94224a5329d2ebf29ed26074c6e3f0a96db0a4d0d5d4ec7b856a20b1fbfb1fec",
-  "sha256Calculator": "c29f13496e9ed6651cb83f7034ecb953cc2349b1ba3bd9887c1f636cdf219d20",
-  "releaseNotes": "Notes v1.8.180 (Build 352):\n• Older chats, including imported history, load page by page as you scroll\n• Recover chat shows its progress and can be retried\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-28T13:09:09Z"
+  "versionCode": 353,
+  "versionName": "1.8.181",
+  "tagName": "v1.8.181-353",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.181-353/app_update_353_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.181-353/app_update_353_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.181-353/app_update_353_calculator.apk",
+  "assetSize": 23762490,
+  "assetSizeNotes": 23762490,
+  "assetSizeCalculator": 23762494,
+  "sha256Notes": "0cd7c952506bf4427bd72e2a8bc986508138b4fc0967f2f5256f607a1b11d25c",
+  "sha256Calculator": "b9bd1db670e7349b44e20ca9bdec6cc24b175817e6e621054e43470cb06964a0",
+  "releaseNotes": "Notes v1.8.181 (Build 353):\n• Jumping to an older date in chat now opens directly without loading everything in between\n• Reduced chat archive storage size by compacting saved message defaults\n• WhatsApp and Telegram icons now keep their original colours across chat and shared links\n• Imported WhatsApp and Telegram links count as opened by default\n• Simplified Today only privacy options and fixed fullscreen YouTube Shorts header spacing",
+  "releaseDate": "2026-11-28T14:15:44Z"
 }
