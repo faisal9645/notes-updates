@@ -1,15 +1,15 @@
 {
-  "versionCode": 350,
-  "versionName": "1.8.178",
-  "tagName": "v1.8.178-350",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.178-350/app_update_350_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.178-350/app_update_350_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.178-350/app_update_350_calculator.apk",
-  "assetSize": 23738570,
-  "assetSizeNotes": 23738570,
-  "assetSizeCalculator": 23738570,
-  "sha256Notes": "11a6a44fcc06e6f0473495dc9ef4f311b919fdd6736054da05251cef6dfb629f",
-  "sha256Calculator": "ebcc6b2dced807c072b993a50d115814e0eaf3504d3b9670a345b46e11213dfd",
-  "releaseNotes": "Notes v1.8.178 (Build 350):\n• Import your WhatsApp or Telegram chat history, including Telegram calls\n• Recover the chat and the chat media separately in Privacy settings\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-28T10:04:01Z"
+  "versionCode": 351,
+  "versionName": "1.8.179",
+  "tagName": "v1.8.179-351",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.179-351/app_update_351_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.179-351/app_update_351_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.179-351/app_update_351_calculator.apk",
+  "assetSize": 23739086,
+  "assetSizeNotes": 23739086,
+  "assetSizeCalculator": 23739082,
+  "sha256Notes": "12d9a98656f01cd03a2a0c56bceb0283abd5be64f2b25df63cdb30aa06e582f7",
+  "sha256Calculator": "5e81cb7a7b47aaa0d52583dd1568475ffa985e621957603da2a2532a3413b0fc",
+  "releaseNotes": "Notes v1.8.179 (Build 351):\n• Settings options clearly show which one is selected again\n• Imported WhatsApp and Telegram messages and calls show where they came from\n• Call history shows when a call has no recording\n• Import chat history from Settings\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-28T12:01:21Z"
 }
