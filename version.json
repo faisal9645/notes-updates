@@ -1,15 +1,15 @@
 {
-  "versionCode": 348,
-  "versionName": "1.8.176",
-  "tagName": "v1.8.176-348",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.176-348/app_update_348_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.176-348/app_update_348_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.176-348/app_update_348_calculator.apk",
-  "assetSize": 23659554,
-  "assetSizeNotes": 23659554,
-  "assetSizeCalculator": 23659558,
-  "sha256Notes": "126a68783d7ecb4b2fee3763ea0b820077b37af8eab1fcbea1abf9ef6c01bd27",
-  "sha256Calculator": "ff8d11ce7f8f911df5aa259b15745937931b7a7220022fda9780a56b83e848de",
-  "releaseNotes": "Notes v1.8.176 (Build 348):\n• Reply directly from full-screen media and shared gallery viewer\n• Smoother chat scrolling, composer keyboard sizing, and animations\n• Quicker access to shared links and smoother voice note playback\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-28T07:24:19Z"
+  "versionCode": 349,
+  "versionName": "1.8.177",
+  "tagName": "v1.8.177-349",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.177-349/app_update_349_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.177-349/app_update_349_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.177-349/app_update_349_calculator.apk",
+  "assetSize": 23680758,
+  "assetSizeNotes": 23680758,
+  "assetSizeCalculator": 23680754,
+  "sha256Notes": "9ae3b345088c8e0ffb88b2821074199413970a62dc50c9f28bc884d42f7a9b54",
+  "sha256Calculator": "561d9ff128d7a8919ab0d59ac4b088b039e5fdda14eb1ee96c5aa76e92668323",
+  "releaseNotes": "Notes v1.8.177 (Build 349):\n• Our Month lets you browse only the months you have messages in\n• Watch Together's Featured & Picks and Browse YouTube fill the whole screen\n• The \"Tap any video\" tip in Watch Together shows briefly, then fades away\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-28T08:36:04Z"
 }
