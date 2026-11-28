@@ -1,15 +1,15 @@
 {
-  "versionCode": 346,
-  "versionName": "1.8.174",
-  "tagName": "v1.8.174-346",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.174-346/app_update_346_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.174-346/app_update_346_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.174-346/app_update_346_calculator.apk",
-  "assetSize": 23638666,
-  "assetSizeNotes": 23638666,
-  "assetSizeCalculator": 23638666,
-  "sha256Notes": "983f69458904c17f37d428bfa4ee0045cd4d2b5f71360997f980c4b9951f4ec9",
-  "sha256Calculator": "c355f17877cdbb0e5751618fa1b23772dcf08e3bf4bfd60a54b1a8d684ec00aa",
-  "releaseNotes": "Notes v1.8.174 (Build 346):\n• Reliable partner updates when opening the Love & Us tab\n• Smoother Watch Together sync, mini-player drag, and audio ducking\n• Watch Together Up Next Queue, Whispers, and Voice Snippets\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-26T20:32:56Z"
+  "versionCode": 347,
+  "versionName": "1.8.175",
+  "tagName": "v1.8.175-347",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.175-347/app_update_347_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.175-347/app_update_347_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.175-347/app_update_347_calculator.apk",
+  "assetSize": 23634886,
+  "assetSizeNotes": 23634886,
+  "assetSizeCalculator": 23634886,
+  "sha256Notes": "d908df34738966ac3101dfc1bf666e2e336430d82c5fd38ea20d635020060440",
+  "sha256Calculator": "aa221646bf267b55f79f01f0914390e7607d82f472a5b2bce71d216de1e232ab",
+  "releaseNotes": "Notes v1.8.175 (Build 347):\n• Direct sign-in without waiting for device approval\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-28T03:06:45Z"
 }
