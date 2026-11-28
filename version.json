@@ -1,15 +1,15 @@
 {
-  "versionCode": 349,
-  "versionName": "1.8.177",
-  "tagName": "v1.8.177-349",
-  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.177-349/app_update_349_notes.apk",
-  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.177-349/app_update_349_notes.apk",
-  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.177-349/app_update_349_calculator.apk",
-  "assetSize": 23680758,
-  "assetSizeNotes": 23680758,
-  "assetSizeCalculator": 23680754,
-  "sha256Notes": "9ae3b345088c8e0ffb88b2821074199413970a62dc50c9f28bc884d42f7a9b54",
-  "sha256Calculator": "561d9ff128d7a8919ab0d59ac4b088b039e5fdda14eb1ee96c5aa76e92668323",
-  "releaseNotes": "Notes v1.8.177 (Build 349):\n• Our Month lets you browse only the months you have messages in\n• Watch Together's Featured & Picks and Browse YouTube fill the whole screen\n• The \"Tap any video\" tip in Watch Together shows briefly, then fades away\n• Bug fixes and refinements",
-  "releaseDate": "2026-11-28T08:36:04Z"
+  "versionCode": 350,
+  "versionName": "1.8.178",
+  "tagName": "v1.8.178-350",
+  "downloadUrl": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.178-350/app_update_350_notes.apk",
+  "downloadUrlNotes": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.178-350/app_update_350_notes.apk",
+  "downloadUrlCalculator": "https://github.com/faisal9645/notes-updates/releases/download/v1.8.178-350/app_update_350_calculator.apk",
+  "assetSize": 23738570,
+  "assetSizeNotes": 23738570,
+  "assetSizeCalculator": 23738570,
+  "sha256Notes": "11a6a44fcc06e6f0473495dc9ef4f311b919fdd6736054da05251cef6dfb629f",
+  "sha256Calculator": "ebcc6b2dced807c072b993a50d115814e0eaf3504d3b9670a345b46e11213dfd",
+  "releaseNotes": "Notes v1.8.178 (Build 350):\n• Import your WhatsApp or Telegram chat history, including Telegram calls\n• Recover the chat and the chat media separately in Privacy settings\n• Bug fixes and refinements",
+  "releaseDate": "2026-11-28T10:04:01Z"
 }
